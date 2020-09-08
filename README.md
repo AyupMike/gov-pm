@@ -4,6 +4,8 @@ A project to analyse the most commonly referenced project management qualificati
 # Requirements
  * [Python](http://python.org/) 3.7+
  * [Scrapy](https://scrapy.org/) v2.3+
+ * [SQLite](https://www.sqlite.org) v3.3+
+ * [yoyo migrations](https://ollycope.com/software/yoyo/latest/)
 
 # Scope of the scraper
 The scope of the spiders covers the following public sector job portals:
