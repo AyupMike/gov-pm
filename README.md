@@ -4,3 +4,9 @@ A project to analyse the most commonly referenced project management qualificati
 # Requirements
  * [Python](http://python.org/) 3.7+
  * [Scrapy](https://scrapy.org/) v2.3+
+
+# Scope of the scraper
+The scope of the spiders covers the following public sector job portals:
+ * Centeral government - https://www.civilservicejobs.service.gov.uk/
+ * NHS - https://www.jobs.nhs.uk/xi/search_vacancy/
+ * NHS Digital - https://www.atscloud.co.uk/nhsdigital/vacancies.aspx
